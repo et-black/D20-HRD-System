@@ -1,4 +1,4 @@
-<style>
+<!--- <style>
       body {
         background-color: #1c87c9;
       }
@@ -12,4 +12,4 @@ Homebrew reference system, quick links for d20 homebrew content, such as monster
 
 [1]: <https://et-black.github.io/D20-HRD-System/D20_HRD_System.html> 
 
-</body>
+<!--- </body>
