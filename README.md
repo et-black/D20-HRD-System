@@ -1,4 +1,10 @@
-<body style="background-color:#1c87c9;">  
+ <style>
+      body {
+        background-color: #1c87c9;
+      }
+    </style>
+<body> 
+  
 # D20-HRD-System
 Homebrew reference system, quick links for d20 homebrew content, such as monsters and npcs
 ## [Index][1]  
