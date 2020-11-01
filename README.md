@@ -1,4 +1,4 @@
- <style>
+<style>
       body {
         background-color: #1c87c9;
       }
