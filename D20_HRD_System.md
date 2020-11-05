@@ -4,10 +4,10 @@
 
 ## d20 Homebrew Reference Document 
 ### Bestiary 
-
-![monsters](https://i.imgur.com/OH5aXFw.gif) **Animals**:  
+>![Imgur](https://i.imgur.com/vr7Z3Bc.gif)  
+> **Animals**:  
 > 1.  [Wolf][1] 
- > 1. [Wolf][2] (Corrupted, Ghoulish Creature) 
+> 1. [Wolf][2] (Corrupted, Ghoulish Creature) 
 
 [1]:<https://et-black.github.io/D20-HRD-System/wolf.html>
 [2]:<https://et-black.github.io/D20-HRD-System/wolf_ghoul.html>
